@@ -1,0 +1,6 @@
+C:\Users\Juan\Documents\class\happynumber\happynumber\bin\Debug\happynumber.exe.config
+C:\Users\Juan\Documents\class\happynumber\happynumber\bin\Debug\happynumber.exe
+C:\Users\Juan\Documents\class\happynumber\happynumber\bin\Debug\happynumber.pdb
+C:\Users\Juan\Documents\class\happynumber\happynumber\obj\Debug\happynumber.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\class\happynumber\happynumber\obj\Debug\happynumber.exe
+C:\Users\Juan\Documents\class\happynumber\happynumber\obj\Debug\happynumber.pdb
